@@ -1,5 +1,12 @@
-PIPL PHP Library that is compatible with PHP v7.2
+PIPL PHP Library for php7.2
 =================================================
+PIPL's current library isn't compatible with php version 7.2.
+There had been some functions that were deprecated in php 7.2 thus I 
+had to alter the library in order to work for my php's specific version.
+
+
+INSTALL VIA COMPOSER
+=====================
 
 
 
