@@ -7,7 +7,7 @@ had to alter the library in order to work for my php's specific version.
 
 INSTALL VIA COMPOSER
 =====================
-
+`composer require roykesserwani/piplapis-php7.2`
 
 
 piplapis PHP Library
