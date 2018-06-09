@@ -1,5 +1,5 @@
 {
-  "name": "roykesserwani/piplapis-php7.2",
+  "name": "roykesserwani/piplapis-php",
   "description": "Client library for use with the Pipl search API compatible with PHP 7.2",
   "license": "MIT",
   "homepage": "https://pipl.com/dev",
