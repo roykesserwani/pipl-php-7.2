@@ -19,5 +19,7 @@
   ],
   "autoload": {
       "classmap": ["src/piplapis/", "src/piplapis/data/"]
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
